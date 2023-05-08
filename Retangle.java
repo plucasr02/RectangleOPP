@@ -16,9 +16,9 @@ public class Retangle {
         retangle.width = sc.nextDouble();
         retangle.height = sc.nextDouble();
         
-        System.out.println("A área do retângulo é: "+retangle.area());
-        System.out.println("O perímetro do retângulo é: "+retangle.perimeter());
-        System.out.println("A diagonal do retângulo é: "+retangle.diagonal());
+        System.out.println("Area: "+retangle.area());
+        System.out.println("Perimeter: "+retangle.perimeter());
+        System.out.println("Diagonal: "+retangle.diagonal());
 
 
 
